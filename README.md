@@ -2,7 +2,7 @@
 A web scrapper that looks up for the warranty of a product on the <a href='http://www.lookupwarranty.com/'> Lookup Warranty website.</a>
 
 
-<img align="center" src= "" width="1000px"/> 
+<img align="center" src= "https://github.com/AriDevK/Lookup-Warranty-Scrapper/blob/main/assets/preview.gif" width="1000px"/> 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -10,17 +10,11 @@ A web scrapper that looks up for the warranty of a product on the <a href='http:
 <br>
 
 ## 📑 Table of Contents 
-  - [Usage](#-usage)
   - [Installation](#-installation)
   - [Contribute](#-contribute)
 
 <br>
 
-
-## 🤖 Usage
-You can access to it on https://pizza-pizza-store.herokuapp.com
-
-<br>
 
 ## ⚙ Installation
 1. Clone the repo and go to the directory.
