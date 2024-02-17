@@ -31,10 +31,10 @@ $ source venv/bin/activate
 ```shell
 $ pip install -r ./requirements.txt
 ```
-4. Move to the src directory and execute the run.py file.
+4. Move to the src directory and execute the main.py file to look the parameters.
 ```shell
 $ cd src
-$ python ./main.py
+$ python ./main.py -h
 ```
 
 
